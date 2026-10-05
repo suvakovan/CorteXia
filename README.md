@@ -1,6 +1,6 @@
 # CorteXia - Your Life, Understood. Powered by AI.
 
-A unified, AI-powered personal life operating system designed with surgical precision, calm authority, and invisible elegance. CorteXia integrates every dimension of personal life management into one intelligent system.
+A unified, AI-powered personal life operating system designed with surgical precision, calms authority, and invisible elegance. CorteXia integrates every dimension of personal life management into one intelligent system.
 
 ## Vision
 
